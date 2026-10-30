@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="TodoApp.API/TodoApp.API.csproj" />
+  <Project Path="TodoApp.BL/TodoApp.BL.csproj" />
+  <Project Path="TodoApp.DL/TodoApp.DL.csproj" />
+  <Project Path="TodoApp.Model/TodoApp.Model.csproj" />
+</Solution>
