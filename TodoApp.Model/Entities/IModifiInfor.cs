@@ -7,6 +7,7 @@ namespace TodoApp.Model.Entities
 {
     public interface IModifiInfor
     {
-        
+        DateTime ModifiedDate { get; set; }
+        string ModifiedBy { get; set; }
     }
 }

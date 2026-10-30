@@ -5,8 +5,9 @@ using System.Threading.Tasks;
 
 namespace TodoApp.Model.Entities
 {
-    public interface ILogInfor
+    public interface ICreateInfor
     {
-        
+        DateTime CreatedDate { get; set; }
+        string CreatedBy { get; set; }
     }
 }
